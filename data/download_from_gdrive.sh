@@ -1,4 +1,4 @@
-nk_id="10bOQTnjbb-npZO6KdanTCtwtU0E4kRcu"
+model_link_id="10bOQTnjbb-npZO6KdanTCtwtU0E4kRcu"
 model_name="cifar-10-python.tar.gz"
 
 URL="https://docs.google.com/uc?export=download&id=$model_link_id"
